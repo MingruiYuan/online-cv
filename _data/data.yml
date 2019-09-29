@@ -34,7 +34,23 @@ sidebar:
 #       - idiom: Spanish
 #         level: Professional
 
-    interests:
+    research interests:
+      - item: Speech Processing
+        link:
+        
+      - item: Speaker Verification
+        link:
+        
+      - item: Audio Signal Processing
+        link:
+        
+      - item: Machine Learning
+        link:
+        
+      - item: Sequence Learning
+        link:
+
+    hobbies:
       - item: Football
         link: 
 
