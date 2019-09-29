@@ -83,14 +83,14 @@ education:
 #           - Bullet point
 
 experiences:
-    - role: University of Rochester, Audio Information Research (AIR) Lab
+    - role: Visiting Student Researcher
       time: 2019.6 - 2019.9
-      company: Visiting Student Researcher
+      company: University of Rochester, Audio Information Research (AIR) Lab 
+      link: https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV
       details: |
           - Worked with Professor Zhiyao Duan on spoofing speaker verification (SV) systems.
           - Built an efficient multi-speaker text-to-speech model trained with GAN.
           - Performed experiments on spoofing effects of synthetic speech on SV systems and anti-spoofing systems.
-      link: https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV
 
     - role: Senior Software Engineer
       time: 2014 - 2015
