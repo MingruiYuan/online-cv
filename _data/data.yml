@@ -36,7 +36,7 @@ sidebar:
 
     interests:
       - item: Football
-        link:
+        link: https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV
 
       - item: Reading
         link:
@@ -57,7 +57,7 @@ career-profile:
 
 education:
     - degree: Undergraduate in Electronic Engineering
-      university: University of London
+      university: Tsinghua University
       time: 2016.8 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -83,22 +83,13 @@ education:
 #           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: University of Rochester, Audio Information Research (AIR) Lab
+      time: 2019.6 - 2019.9
+      company: Visiting Student Researcher
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+          - Worked with Professor Zhiyao Duan on spoofing speaker verification (SV) systems.
+          - Built an efficient multi-speaker text-to-speech model trained with GAN.
+          - Performed experiments on spoofing effects of synthetic speech on SV systems and anti-spoofing systems.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
