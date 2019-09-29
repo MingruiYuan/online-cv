@@ -36,7 +36,7 @@ sidebar:
 
     interests:
       - item: Football
-        link: https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV
+        link: 
 
       - item: Reading
         link:
@@ -90,6 +90,7 @@ experiences:
           - Worked with Professor Zhiyao Duan on spoofing speaker verification (SV) systems.
           - Built an efficient multi-speaker text-to-speech model trained with GAN.
           - Performed experiments on spoofing effects of synthetic speech on SV systems and anti-spoofing systems.
+      link: https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV
 
     - role: Senior Software Engineer
       time: 2014 - 2015
