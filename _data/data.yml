@@ -34,7 +34,7 @@ sidebar:
 #       - idiom: Spanish
 #         level: Professional
 
-    research interests:
+    interests:
       - item: Speech Processing
         link:
         
@@ -50,12 +50,12 @@ sidebar:
       - item: Sequence Learning
         link:
 
-    hobbies:
-      - item: Football
-        link: 
+#     hobbies:
+#       - item: Football
+#         link: 
 
-      - item: Reading
-        link:
+#       - item: Reading
+#         link:
 
 #       - item: Cooking
 #         link:
