@@ -66,7 +66,7 @@ career-profile:
       I am an undergraduate in Dept. of Electronic Engineering, Tsinghua University.
       My research interests include speech processing, speaker verification, audio 
       signal processing, machine learning and sequence learning.
-      You can [download this free resume/CV template here](https://github.com/MingruiYuan/cv_reports/tree/master/ReplayAttackDetection).
+      You can [download my CV here](https://github.com/MingruiYuan/online-cv/blob/gh-pages/assets/images/Mingrui_Yuan_CV.pdf).
 
 education:
     - degree: Undergraduate in Electronic Engineering
@@ -110,10 +110,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: SpoofSV
         link: "https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV"
