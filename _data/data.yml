@@ -44,11 +44,11 @@ sidebar:
       - item: Audio Signal Processing
         link:
         
-      - item: Machine Learning
+      - item: Adversarial Machine Learning
         link:
         
-      - item: Sequence Learning
-        link:
+#       - item: Sequence Learning
+#         link:
 
 #     hobbies:
 #       - item: Football
