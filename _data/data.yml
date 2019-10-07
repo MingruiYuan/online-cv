@@ -120,7 +120,7 @@ projects:
         tagline: "Replay is a common threat to speaker verification systems and we investigated functions of different features in replay attack detection."
 
       - title: Level Set Estimation
-        link: "https://github.com/MingruiYuan/cv_reports/blob/master/LevelSetEstimation/README.md"
+        link: "https://github.com/MingruiYuan/cv_reports/tree/master/LevelSetEstimation"
         tagline: "Course project of Stochastic Processes. Investigated algorithms for level set estimation."
 
 #       - title: Atom
