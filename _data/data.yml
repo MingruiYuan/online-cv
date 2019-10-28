@@ -112,7 +112,7 @@ projects:
     intro: >
     assignments:
       - title: SpoofSV
-        link: "https://github.com/MingruiYuan/cv_reports/tree/master/SpoofSV"
+        link: "https://github.com/MingruiYuan/SpoofSV"
         tagline: "Comprehensive experiments on spoofing effects of synthetic speech on speaker verification (SV) systems."
 
       - title: Replay Attack Detection
