@@ -111,7 +111,7 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: SpoofSV
+      - title: SpoofSV [github repository]
         link: "https://github.com/MingruiYuan/SpoofSV"
         tagline: "Comprehensive experiments on spoofing effects of synthetic speech on speaker verification (SV) systems."
 
