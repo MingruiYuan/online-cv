@@ -66,7 +66,7 @@ career-profile:
       I am an undergraduate in Dept. of Electronic Engineering, Tsinghua University.
       My research interests include speech processing, speaker verification, audio 
       signal processing and adversarial machine learning.
-      You can [download my CV here](https://github.com/MingruiYuan/online-cv/blob/gh-pages/assets/images/Mingrui_Yuan_CV.pdf?raw=true).
+      You can [download my CV here](https://github.com/MingruiYuan/online-cv/blob/gh-pages/assets/images/cv.pdf?raw=true).
 
 education:
     - degree: Undergraduate in Electronic Engineering
@@ -131,17 +131,13 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-
-#     papers:
-#       - title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: Spoofing Speaker Verification Systems with Deep Multi-speaker Text-to-speech Synthesis
+        authors: Mingrui Yuan, Zhiyao Duan
+        conference: arXiv preprint, 2019
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
