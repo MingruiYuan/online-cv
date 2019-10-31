@@ -135,7 +135,8 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: [Spoofing Speaker Verification Systems with Deep Multi-speaker Text-to-speech Synthesis](https://arxiv.org/abs/1910.13054)
+      - title: Spoofing Speaker Verification Systems with Deep Multi-speaker Text-to-speech Synthesis
+        link: "https://arxiv.org/abs/1910.13054"
         authors: Mingrui Yuan, Zhiyao Duan
         conference: arXiv preprint, 2019.
 
