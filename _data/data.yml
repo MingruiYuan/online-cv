@@ -96,7 +96,8 @@ experiences:
       company: University of Rochester, Audio Information Research (AIR) Lab 
       details: |
           - Worked with Professor Zhiyao Duan on spoofing speaker verification (SV) systems.
-          - Built an efficient multi-speaker text-to-speech model trained with GAN.
+          - Proposed simple and effective multi-speaker representation in deep learning
+Text-to-speech (TTS) model.
           - Performed experiments on spoofing effects of synthetic speech on SV systems and anti-spoofing systems.
 
     - role: Student Researcher
@@ -104,8 +105,8 @@ experiences:
       company: Tsinghua University, Speech and Audio Technology Lab (SATLAB)
       details: |
           - Worked with Professor Weiqiang Zhang on speech processing and speaker verification.
-          - Investigated functions of different features in replay attack detection.
-          - Investigated real-time speech enhancement based on recurrent neural networks.
+          - Investigated replay attack detection.
+          - Investigated real-time speech enhancement based on hybrid DSP/deep learning method.
           
 projects:
     title: Projects
