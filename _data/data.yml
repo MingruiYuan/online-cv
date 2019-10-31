@@ -12,7 +12,7 @@ sidebar:
     avatar: 微信图片_20190508081020.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yuanmingrui1997@gmail.com
+    email: yuanmr16@mails.tsinghua.edu.cn
     phone: (+86) 132-3016-7277
     website:
     linkedin:
@@ -65,7 +65,7 @@ career-profile:
     summary: |
       I am an undergraduate in Dept. of Electronic Engineering, Tsinghua University.
       My research interests include speech processing, speaker verification, audio 
-      signal processing and adversarial machine learning.
+      signal processing and [adversarial machine learning](https://github.com/MingruiYuan/online-cv/blob/gh-pages/assets/images/cv.pdf?raw=true).
       You can [download my CV here](https://github.com/MingruiYuan/online-cv/blob/gh-pages/assets/images/cv.pdf?raw=true).
 
 education:
