@@ -96,8 +96,7 @@ experiences:
       company: University of Rochester, Audio Information Research (AIR) Lab 
       details: |
           - Worked with Professor Zhiyao Duan on spoofing speaker verification (SV) systems.
-          - Proposed simple and effective multi-speaker representation in deep learning
-Text-to-speech (TTS) model.
+          - Proposed simple and effective multi-speaker representation in deep learning text-to-speech (TTS) model.
           - Performed experiments on spoofing effects of synthetic speech on SV systems and anti-spoofing systems.
 
     - role: Student Researcher
